@@ -1,5 +1,5 @@
 # Colorimetría
 Prototipo digital para el análsis cuantitativo del color. 
 
-Data Ser = Set de datos de entrada
-RGB_Set = Set de datos de salida
+DataSet.csv = Set de datos de entrada
+Set_RGB.csv = Set de datos de salida
