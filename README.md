@@ -1,2 +1,2 @@
 # Colorimetría
-Prototipo digital para el análsis colorimetrico de imágenes. 
+Prototipo digital para el análsis cuantitativo del color. 
