@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usa este software o sus resultados, cítelo con estos metadatos."
+title: "Colorimetría: prototipo digital para el análisis cuantitativo del color"
+type: software
+authors:
+  - family-names: "Peña-Garnica"
+    given-names: "Diego F."
+repository-code: "https://github.com/diegopenia/Colorimetria"
+license: MIT
+date-released: 2026-11-14
+keywords:
+  - colorimetría
+  - CIELAB
+  - K-means
+  - Draw-a-Scientist
+  - género
+  - educación infantil
